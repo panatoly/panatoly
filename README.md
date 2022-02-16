@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @panatoly
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning CQL, Java
 - 💞️ I’m looking to collaborate on various projects
 - 📫 Reach me at profigramma@gmail.com
 
