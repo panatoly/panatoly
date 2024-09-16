@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @panatoly
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning CQL, Java
+- 👀 I’m into SAP and CRM.
+- 🌱 I’m currently learning SQL,and taking CS50 course. 
 - 💞️ I’m looking to collaborate on various projects
 - 📫 Reach me at profigramma@gmail.com
 
